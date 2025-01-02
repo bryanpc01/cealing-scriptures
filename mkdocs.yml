@@ -111,12 +111,17 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/zRNZ43Kh
 copyright: >
-  Copyright &copy; 2024 - CEAL Learning LLC –
+  Copyright &copy; 2025 - CEAL Learning LLC –
   <a href="#__consent">Change cookie settings</a>
 
 markdown_extensions:
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
   - attr_list
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tabbed:
+      alternate_style: true
