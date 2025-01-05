@@ -34,7 +34,7 @@
     [Colossians 4:2-6 (CSB)](https://www.bible.com/bible/1713/col.4.2-6)
 
 ## The Lord is My Light and My Salvation
-!!! quote "Psalm 27 (CSB)"
+!!! quote "Psalms 27 (CSB)"
     ^1^The Lord is my light and my salvation— whom should I fear? The Lord is the stronghold of my life— of whom should I be afraid? ^2^When evildoers came against me to devour my flesh — my foes and my enemies — they stumbled and fell. ^3^Though an army deploys against me, my heart will not be afraid; though a war breaks out against me, I will still be confident.
 
     ^4^I have asked one thing from the Lord; it is what I desire: to dwell in the house of the Lord all the days of my life, gazing on the beauty of the Lord and seeking him in his temple. ^5^For he will conceal me in his shelter in the day of adversity; he will hide me under the cover of his tent; he will set me high on a rock. ^6^Then my head will be high above my enemies around me; I will offer sacrifices in his tent with shouts of joy. I will sing and make music to the Lord.
@@ -45,13 +45,15 @@
 
     ^13^I am certain that I will see the Lord’s goodness in the land of the living. ^14^Wait for the Lord; be strong, and let your heart be courageous. Wait for the Lord.
 
-    [Psalm 27:1-14 (CSB)](https://www.bible.com/bible/1713/psa.27.1-14)
+    [Psalms 27 (CSB)](https://www.bible.com/bible/1713/PSA.27_1.CSB)
 
 ## Death to Life
 !!! quote "Ephesians 2 (CSB)"
     ^1^And you were dead in your trespasses and sins ^2^in which you previously walked according to the ways of this world, according to the ruler of the power of the air, the spirit now working in the disobedient. ^3^We too all previously lived among them in our fleshly desires, carrying out the inclinations of our flesh and thoughts, and we were by nature children under wrath as the others were also. ^4^But God, who is rich in mercy, because of his great love that he had for us, ^5^made us alive with Christ even though we were dead in trespasses. You are saved by grace! ^6^He also raised us up with him and seated us with him in the heavens in Christ Jesus, ^7^so that in the coming ages he might display the immeasurable riches of his grace through his kindness to us in Christ Jesus. ^8^For you are saved by grace through faith, and this is not from yourselves; it is God’s gift—^9^not from works, so that no one can boast. ^10^For we are his workmanship, created in Christ Jesus for good works, which God prepared ahead of time for us to do.
 
     ^11^So, then, remember that at one time you were Gentiles in the flesh—called “the uncircumcised” by those called “the circumcised,” which is done in the flesh by human hands. ^12^At that time you were without Christ, excluded from the citizenship of Israel, and foreigners to the covenants of promise, without hope and without God in the world. ^13^But now in Christ Jesus, you who were far away have been brought near by the blood of Christ. ^14^For he is our peace, who made both groups one and tore down the dividing wall of hostility. In his flesh, ^15^he made of no effect the law consisting of commands and expressed in regulations, so that he might create in himself one new man from the two, resulting in peace. ^16^He did this so that he might reconcile both to God in one body through the cross by which he put the hostility to death. ^17^He came and proclaimed the good news of peace to you who were far away and peace to those who were near. ^18^For through him we both have access in one Spirit to the Father. ^19^So, then, you are no longer foreigners and strangers, but fellow citizens with the saints, and members of God’s household, ^20^built on the foundation of the apostles and prophets, with Christ Jesus himself as the cornerstone. ^21^In him the whole building, being put together, grows into a holy temple in the Lord. ^22^In him you are also being built together for God’s dwelling in the Spirit.
+
+    [Ephesians 2 (CSB)](https://www.bible.com/bible/1713/EPH.2.CSB)
 
 ## Harvest 123
 ### The Depravity of Man
