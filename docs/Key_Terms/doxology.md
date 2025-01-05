@@ -10,14 +10,14 @@ The bible is filled with ways to express glory, honor, and praise to God. One of
 May you be blessed, Lord God of our father Israel, from eternity to eternity. ^11^Yours, Lord, is the greatness and the power and the glory and the splendor and the majesty, for everything in the heavens and on earth belongs to you. Yours, Lord, is the kingdom, and you are exalted as head over all. ^12^Riches and honor come from you, and you are the ruler of everything. Power and might are in your hand, and it is in your hand to make great and to give strength to all. ^13^Now therefore, our God, we give you thanks and praise your glorious name.
 
 
-## Angel Praising God When Anouncing Jesus Birth
+## Angel Praising God When Announcing Jesus Birth
 ### [Luke 2:13-14 (CSB)](https://www.bible.com/bible/1713/luk.2.13-14)
 ^13^Suddenly there was a multitude of the heavenly host with the angel, praising God and saying:
 
 ^14^Glory to God in the highest heaven, and peace on earth to people he favors!
 
 
-## Paul's Doxology
+## Paul's Doxologies
 ### [Romans 11:33-36 (CSB)](https://www.bible.com/bible/1713/rom.11.33-36)
 ^33^Oh, the depth of the riches and the wisdom and the knowledge of God! How unsearchable his judgments and untraceable his ways! ^34^**For who has known the mind of the Lord? Or who has been his counselor? ^35^And who has ever given to God, that he should be repaid?** ^36^For from him and through him and to him are all things. To him be the glory forever. Amen.
 
